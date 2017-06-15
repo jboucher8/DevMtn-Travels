@@ -78,6 +78,6 @@ angular.module('devmtnTravel').service('mainSrv', function(){
 				desc: "Melbourne is the coastal capital of the southeastern Australian state of Victoria. At the city's centre is the modern Federation Square development, with plazas, bars, and restaurants by the Yarra River.",
 				id: 3544,
 				price: 1722.12
-			},
-		]
-})
+			}
+		];
+});
